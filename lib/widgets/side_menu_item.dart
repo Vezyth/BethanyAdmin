@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:bethany_admin/helpers/reponsiveness.dart';
 import 'package:bethany_admin/widgets/horizontal_menu_item.dart';
-import 'package:bethany_admin/vertical_menu_item.dart';
+import 'package:bethany_admin/widgets/vertical_menu_item.dart';
 
 class SideMenuItem extends StatelessWidget {
   final String itemName;

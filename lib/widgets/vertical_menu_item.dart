@@ -1,9 +1,8 @@
+import 'package:bethany_admin/widgets/custom_text.dart';
 import 'package:flutter/material.dart';
 import 'package:bethany_admin/constants/controllers.dart';
 import 'package:get/get.dart';
 import 'package:bethany_admin/constants/style.dart';
-
-import 'widgets/custom_text.dart';
 
 class VertticalMenuItem extends StatelessWidget {
   final String itemName;
